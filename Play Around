@@ -1,1 +1,8 @@
-#How old is a Karen?
+image_blank(width = 500, 
+            height = 500, 
+            color = "#000000") %>%
+  image_annotate(text = "Statistics",
+                 color = "#FFFFFF",
+                 size = 80,
+                 font = "Impact",
+                 gravity = "center")
