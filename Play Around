@@ -1,8 +1,0 @@
-image_blank(width = 500, 
-            height = 500, 
-            color = "orange") %>%
-  image_annotate(text = "Statistics",
-                 color = "#FFFFFF",
-                 size = 80,
-                 font = "Impact",
-                 gravity = "center")
